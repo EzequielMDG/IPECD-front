@@ -5,30 +5,30 @@
 
 .header-custom {
     height: 700px;
-    background: url(./img/bg.jpg) fixed;
+    background: url(../img/bg.jpg) fixed;
 }
 
 
 .img-bg-card_custom { 
-    background-image: url(./img/card-bg.png);
+    background-image: url(../img/card-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .img-bg-section_custom { 
-    background: url(./img/bg3.png) no-repeat center center;
+    background: url(../img/bg3.png) no-repeat center center;
     background-size: cover; 
 }
 
 .img-bg-section_custom_2 { 
-    background-image: url(./img/bg-datos-abiertos.png);
+    background-image: url(../img/bg-datos-abiertos.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .img-bg-footer_custom { 
-    background-image: url(./img/bg-footer.png);
+    background-image: url(../img/bg-footer.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
