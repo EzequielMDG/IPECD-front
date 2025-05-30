@@ -1,0 +1,41 @@
+.search {
+    border-radius: 15.471px;
+    box-shadow: 0px 11.341px 20.251px 0px rgba(0, 0, 0, 0.15);
+}
+
+.header-custom {
+    height: 700px;
+    background: url(./img/bg.jpg) fixed;
+}
+
+
+.img-bg-card_custom { 
+    background-image: url(./img/card-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img-bg-section_custom { 
+    background: url(./img/bg3.png) no-repeat center center;
+    background-size: cover; 
+}
+
+.img-bg-section_custom_2 { 
+    background-image: url(./img/bg-datos-abiertos.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.img-bg-footer_custom { 
+    background-image: url(./img/bg-footer.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+} 
+
+.box-shadow_custom {
+    box-shadow: -1px -80px 0px 0px rgba(255,255,255,1) inset;
+    -webkit-box-shadow: -1px -80px 0px 0px rgba(255,255,255,1) inset;
+    -moz-box-shadow: -1px -80px 0px 0px rgba(255,255,255,1) inset;
+}
